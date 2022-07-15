@@ -1,0 +1,11 @@
+(
+	\name: "Extended Classes",
+	\path: "extended-classes",
+	\summary: "A native SuperCollider Classes extension",
+	\helpdoc: "",
+	\author: "Alexis Caffa",
+	\version: 1.0,
+	\country: "Argentina",
+	\since: "~2018"
+)
+
